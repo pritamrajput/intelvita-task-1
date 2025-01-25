@@ -1,8 +1,14 @@
-# React + Vite
+## Prerequisites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To run this application locally, you need to have the following installed:
+- [Node.js](https://nodejs.org/en/download/) (which includes npm)
+- A web browser (like Chrome, Firefox, etc.)
 
-Currently, two official plugins are available:
+## Steps to Run the App Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Clone the repository
+
+If you have not cloned the repository yet, run this command in your terminal (make sure you have Git installed):
+
+```bash
+git clone https://github.com/your-username/intelvita-task-1.git

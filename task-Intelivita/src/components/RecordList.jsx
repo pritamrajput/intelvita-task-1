@@ -1,7 +1,5 @@
 const RecordList = ({ records, onEdit, onDelete }) =>{
 
-   
-
     return (
         <table className="w-full border-collapse border border-gray-300">
         <thead>
